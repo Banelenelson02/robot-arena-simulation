@@ -1,2 +1,5 @@
 com/robotarena/model/Robot.class
+com/robotarena/arena/Arena.class
 com/robotarena/arena/Position.class
+com/robotarena/SimulationRunner.class
+com/robotarena/arena/ArenaRenderer.class

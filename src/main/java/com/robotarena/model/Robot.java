@@ -237,6 +237,17 @@ public class Robot {
     }
 
     /**
+     * Returns a compact one-line status string for tick logs and the renderer.
+     *
+     * <p>Example: {@code HP: 70/100 (70.0%)}
+     *
+     * @return a short status string
+     */
+    public String getStatusSummary() {
+        return String.format("HP: %d/%d (%.1f%%)", health, maxHealth, getHealthPercentage());
+    }
+
+    /**
      * Returns a formatted summary of this robot's current state.
      *
      * <p>Example: {@code [R001] Ironclad | HP: 70/100 (70.0%) | Pos: (3, 5) | ALIVE}

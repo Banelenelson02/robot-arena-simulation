@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/surefire/surefirebooter-20260505105751911_3.jar /home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/surefire 2026-05-05T10-57-51_865-jvmRun1 surefire-20260505105751911_1tmp surefire_0-20260505105751911_2tmp"/>
+    <property name="sun.java.command" value="/home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/surefire/surefirebooter-20260505110903018_3.jar /home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/surefire 2026-05-05T11-09-02_931-jvmRun1 surefire-20260505110903018_1tmp surefire_0-20260505110903018_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/test-classes:/home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/classes:/home/wethinkcode_/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.2/junit-jupiter-5.10.2.jar:/home/wethinkcode_/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar:/home/wethinkcode_/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/wethinkcode_/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar:/home/wethinkcode_/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/wethinkcode_/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar:/home/wethinkcode_/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar:/home/wethinkcode_/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/surefire/surefirebooter-20260505105751911_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/wethinkcode_/Documents/My_own_github_portfolio/robot-arena-simulation/target/surefire/surefirebooter-20260505110903018_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.18+8-Ubuntu-122.04.1"/>
     <property name="user.name" value="wethinkcode_"/>
@@ -56,5 +56,5 @@
   <testcase name="distanceToKnownValue" classname="com.robotarena.arena.PositionTest" time="0.0"/>
   <testcase name="equalsSameCoordinates" classname="com.robotarena.arena.PositionTest" time="0.0"/>
   <testcase name="hashCodeMatchesForEqualPositions" classname="com.robotarena.arena.PositionTest" time="0.0"/>
-  <testcase name="notEqualDifferentCoordinates" classname="com.robotarena.arena.PositionTest" time="0.001"/>
+  <testcase name="notEqualDifferentCoordinates" classname="com.robotarena.arena.PositionTest" time="0.0"/>
 </testsuite>
